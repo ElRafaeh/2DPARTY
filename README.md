@@ -1,6 +1,6 @@
 # Instrucciones para poder jugar a 2DParty
 
-1. Tener instalado python3 en el ordenador.
+1. Tener instalado python3 en el ordenador. https://www.python.org/downloads/
 2. Instalar la apk en tu móvil.
 3. Bajarte la aplicación de escritorio.
 4. Tanto los móviles como el ordenador donde se juegue, deben estar conectados a la misma red wifi.
