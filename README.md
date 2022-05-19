@@ -10,3 +10,4 @@
 ## APENDICE
 1. Si la aplicación se queda bugeada por algún juego reiniciar.
 2. Si se cambia de juego, en el móvil salir al menú principal y volver a entrar para que se cambien los mandos del juego.
+3. Intentar no cerrar el juego con alt+f4, puede fallar el servidor de conexión, cerrar el juego con los botones de la aplicación de escritorio. El minijuego 3 se cierra con la tecla ESC.
